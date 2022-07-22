@@ -1,13 +1,13 @@
 # NOC Helpdesk Function.
 The NOC provides many services to a cornucopia of customers. One of the most important of which is its Helpdesk functionality. The NOC assist the official Helpdesk after regular business hours, and in so doing facilities the Helpdesk to provide 24/7 coverage for issues such as Password resets, Risk Id unlocks/disablement, VDI/VMM Resets and administration, VPN/Google Authenticator setup assistance and troubleshooting just to name a few.
 
-Overview
+# Overview
 The NOC is requested to share a daily report of severities opened in the previous 24 hour period to Product Application Support.
 
-Process
+# Process
 A SEV represents a slowdown or significant disruption the production system which prevents the promised use of the product(s) and/or system (due to data quality, security etc) for all or most customers. This report is to track the amount of daily activity
 
-Feature Requests
+# Feature Requests
 Please enter any feature requests into the issues section of this repository.
 
 Bugs

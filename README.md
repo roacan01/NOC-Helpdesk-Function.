@@ -7,47 +7,34 @@ The NOC provides many services to a cornucopia of customers. One of the most imp
 # Process
 
 
+# Indicators
 
-# Feature Requests
-Please enter any feature requests into the issues section of this repository.
+* **Availability** - Always available 365 days, ensuring 24/7/365 uptime services.
 
-# Bugs
-Please enter any bugs into the issues section of this repository.
+* **Response Time** - Ensure quick response time in communication/escalation/engagement to next level of support within 5- 10 minutes of initial email/alert/inquiry.
 
-# More Information
-More information for this service can be found on the Confluence for this service.
+* **Accuracy** - monitor infrastructure health, security, and capacity and ensure continuous availability.
+
+# Objectives
+
+* **Availability** - 99.9% availability 24x7 365 including holidays.
+
+* **Response Time** - 99% of all requests will be responded to within 5 minutes.
+
+* **Accuracy** - 99% accuracy to meet all escalation requests complete within 10% of estimation. 
+
+# Agreements
+
+* **Availability** - 99% availability 24x7 365 including holidays.
+
+* **Response Time** - 99% of all escalations or requests will be responded within 5 minutes.
+
+* **Accuracy** - - 99% accuracy to meet all escalation requests complete within 25% of estimation.
+
+
 
 # Team
 * Judith Barringer-Jenkins, Manager Systems Engineering- NOC
 * Kristy Doyle, Manager System Engineering - PAS
 * Donna Smith, Director Systems Engineering
 * Lavinia Ricketts, Vice President Technology
-
-# Indicators
-
-* **Availability** - 
-* **Response Time** -
-
-* **Accuracy** - 
-
-# Objectives
-
-* **Availability** - 
-
-* **Response Time** - 
-
-* **Accuracy** - 
-
-# Agreements
-
-* **Availability** - 
-
-* **Response Time** - 
-
-* **Accuracy** - 
-
-|<sub>Indicator</sub>|<sub>SLA</sub>|
-| ------ | ------ |
-|<sub>Availability</sub>|<sub>80%</sub>|
-|<sub>Response Time</sub>|<sub>80% per business week</sub>|
-|<sub>Accuracy</sub>|<sub>80% of all reports</sub>|
